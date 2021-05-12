@@ -9,3 +9,8 @@ npm run dev
 yarn
 yarn dev
 ```
+## Preview
+https://landing-page-nextjs.kentrung.repl.co/
+
+## JavaScript Mastery
+https://www.youtube.com/watch?v=iGBERMGMIvc
